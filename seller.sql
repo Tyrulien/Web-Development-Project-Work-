@@ -1,8 +1,0 @@
-USE 	coffeeshop;
-CREATE TABLE seller (
-sellerNumber INT(45) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-sellerName VARCHAR(45) NOT NULL,
-sellerBio VARCHAR(45) NOT NULL,
-userid INT(45) NOT NULL,
-date TIMESTAMP
-);
