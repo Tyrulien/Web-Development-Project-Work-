@@ -126,9 +126,9 @@ https://termly.io/resources/templates/terms-of-service-template/
 
 https://termly.io/resources/templates/privacy-policy-template/
 
--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------Used Flux Dev to make my images for the website, specifically the logo, dark roast, vanilla latte and the espresso
 
-
+https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev
 
 -------------------------------------------------------------------------------
 
