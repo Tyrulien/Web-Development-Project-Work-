@@ -1,2 +1,0 @@
-draw.io
-https://codeshack.io/shopping-cart-system-php-mysql/#creatingthedatabaseandsettinguptables
